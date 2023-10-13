@@ -1,6 +1,6 @@
-let i = 0;
-const myArray = [];
 function whileLoop1() {
+  let i = 0;
+  const myArray = [];
   while (i < 10) {
     myArray.push(i);
     i++;
